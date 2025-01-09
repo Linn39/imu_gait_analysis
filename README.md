@@ -9,7 +9,7 @@ This repository contains scripts for IMU-based gait analysis:
 ## Getting started
 ### Getting the Project
 ```bash
-git clone https://gitlab.hpi.de/lin.zhou/stroke_gait.git
+git clone https://github.com/Linn39/imu_gait_analysis.git
 ```
 
 ### Setting up the Environment
